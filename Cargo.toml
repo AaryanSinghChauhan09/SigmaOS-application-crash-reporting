@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-application-crash-reporting"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS application-crash-reporting component - deployment"
+
+[lib]
+name = "application_crash_reporting"
+path = "src/lib.rs"
