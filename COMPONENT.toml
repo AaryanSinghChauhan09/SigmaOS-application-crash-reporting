@@ -3,7 +3,7 @@ name = "SigmaOS-application-crash-reporting"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "application-crash-reporting component"
+description = "Application Crash Reporting"
 upstream = []
 
 [contract]
